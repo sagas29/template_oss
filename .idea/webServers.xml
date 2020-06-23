@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="792df66c-686f-4adf-a007-f2169d909e4c" name="invertec">
+        <fileTransfer rootFolder="/html" accessType="SFTP" host="invertec.apps-oss.com" port="22" sshConfigId="32e78ce2-914e-4637-bc24-53cd60086682" sshConfig="Invertec">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

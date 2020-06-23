@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="invertec.apps-oss.com" id="32e78ce2-914e-4637-bc24-53cd60086682" port="22" customName="Invertec" nameFormat="CUSTOM" username="invertec" />
+    </configs>
+  </component>
+</project>
